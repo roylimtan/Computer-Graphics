@@ -2,7 +2,7 @@
 This repository is code for "Computer Graphics" Project (Modeling, Rendering) using OpenGL library (freeglut-3.2.1), C++ (Visual Studio 2019).
 
 :bulb: **First: Opne Computer Graphics.pdf**<BR/><BR/>
-:bulb: **Second: Opne Run Project->**
+:bulb: **Second: Opne Run Project->20192099_Limhyunmin.exe**
 
 :small_orange_diamond: **savemodel.cpp Characteristics**
 - Rotate the entered points on a specific center axis.
