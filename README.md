@@ -1,6 +1,9 @@
 # Computer-Graphics-OenGL
 This repository is code for "Computer Graphics" Project (Modeling, Rendering) using OpenGL library (freeglut-3.2.1), C++ (Visual Studio 2019).
 
+:bulb: **First: Opne Computer Graphics.pdf**<BR/><BR/>
+:bulb: **Second: Opne Run Project->**
+
 :small_orange_diamond: **savemodel.cpp Characteristics**
 - Rotate the entered points on a specific center axis.
 - Use OpenGL to express the points that have been rotated on the screen. 
